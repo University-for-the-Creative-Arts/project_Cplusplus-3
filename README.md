@@ -1,14 +1,19 @@
-# Project C++
+# Project C++ 2
 
 ---
 
 ## 1. Introduction (≈150 words)
 
-- Create or open an Unreal C++ project
-Compile and run the project successfully
-Identify:
-  - One reflected class
-  - One reflected property or function
+Create a simple C++ AActor that logs messages from different lifecycle functions.
+
+Implement some logic for at least three of the following:
+
+  - OnConstruction
+  - BeginPlay
+  - Tick
+  - EndPlay
+- Use UE_LOG() to clearly label which function is running.
+- Spawn the Actor at runtime (not placed in the level).
 
 Explain your reasoning and overall approach  
 Outline why this task is relevant or important in a professional or technical context  
