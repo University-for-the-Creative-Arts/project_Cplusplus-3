@@ -16,6 +16,6 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = C_plus_plusModuleRules
-build_property.ProjectDir = C:\Users\2406616\Documents\Unreal Projects\C_plus_plus\Intermediate\Build\BuildRulesProjects\C_plus_plusModuleRules\
+build_property.ProjectDir = C:\Users\2406616\Documents\GitHub\project_Cplusplus-2\C_plus_plus\Intermediate\Build\BuildRulesProjects\C_plus_plusModuleRules\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
