@@ -98,14 +98,14 @@ AMyMyActor::~AMyMyActor() {}
 // ********** End Class AMyMyActor *****************************************************************
 
 // ********** Begin Registration *******************************************************************
-struct Z_CompiledInDeferFile_FID_Users_2406616_Documents_GitHub_project_Cplusplus_2_C_plus_plus_Source_C_plus_plus_MyMyActor_h__Script_C_plus_plus_Statics
+struct Z_CompiledInDeferFile_FID_Users_2406616_Documents_GitHub_project_Cplusplus_3_C_plus_plus_Source_C_plus_plus_MyMyActor_h__Script_C_plus_plus_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
 		{ Z_Construct_UClass_AMyMyActor, AMyMyActor::StaticClass, TEXT("AMyMyActor"), &Z_Registration_Info_UClass_AMyMyActor, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(AMyMyActor), 264915054U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_2406616_Documents_GitHub_project_Cplusplus_2_C_plus_plus_Source_C_plus_plus_MyMyActor_h__Script_C_plus_plus_3954170355(TEXT("/Script/C_plus_plus"),
-	Z_CompiledInDeferFile_FID_Users_2406616_Documents_GitHub_project_Cplusplus_2_C_plus_plus_Source_C_plus_plus_MyMyActor_h__Script_C_plus_plus_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_2406616_Documents_GitHub_project_Cplusplus_2_C_plus_plus_Source_C_plus_plus_MyMyActor_h__Script_C_plus_plus_Statics::ClassInfo),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_2406616_Documents_GitHub_project_Cplusplus_3_C_plus_plus_Source_C_plus_plus_MyMyActor_h__Script_C_plus_plus_3954170355(TEXT("/Script/C_plus_plus"),
+	Z_CompiledInDeferFile_FID_Users_2406616_Documents_GitHub_project_Cplusplus_3_C_plus_plus_Source_C_plus_plus_MyMyActor_h__Script_C_plus_plus_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_2406616_Documents_GitHub_project_Cplusplus_3_C_plus_plus_Source_C_plus_plus_MyMyActor_h__Script_C_plus_plus_Statics::ClassInfo),
 	nullptr, 0,
 	nullptr, 0);
 // ********** End Registration *********************************************************************

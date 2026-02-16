@@ -19,7 +19,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 // ********** Begin Class AMyMyActor ***************************************************************
 C_PLUS_PLUS_API UClass* Z_Construct_UClass_AMyMyActor_NoRegister();
 
-#define FID_Users_2406616_Documents_GitHub_project_Cplusplus_2_C_plus_plus_Source_C_plus_plus_MyMyActor_h_12_INCLASS_NO_PURE_DECLS \
+#define FID_Users_2406616_Documents_GitHub_project_Cplusplus_3_C_plus_plus_Source_C_plus_plus_MyMyActor_h_12_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesAMyMyActor(); \
 	friend struct Z_Construct_UClass_AMyMyActor_Statics; \
@@ -30,7 +30,7 @@ public: \
 	DECLARE_SERIALIZER(AMyMyActor)
 
 
-#define FID_Users_2406616_Documents_GitHub_project_Cplusplus_2_C_plus_plus_Source_C_plus_plus_MyMyActor_h_12_ENHANCED_CONSTRUCTORS \
+#define FID_Users_2406616_Documents_GitHub_project_Cplusplus_3_C_plus_plus_Source_C_plus_plus_MyMyActor_h_12_ENHANCED_CONSTRUCTORS \
 	/** Deleted move- and copy-constructors, should never be used */ \
 	AMyMyActor(AMyMyActor&&) = delete; \
 	AMyMyActor(const AMyMyActor&) = delete; \
@@ -40,12 +40,12 @@ public: \
 	NO_API virtual ~AMyMyActor();
 
 
-#define FID_Users_2406616_Documents_GitHub_project_Cplusplus_2_C_plus_plus_Source_C_plus_plus_MyMyActor_h_9_PROLOG
-#define FID_Users_2406616_Documents_GitHub_project_Cplusplus_2_C_plus_plus_Source_C_plus_plus_MyMyActor_h_12_GENERATED_BODY \
+#define FID_Users_2406616_Documents_GitHub_project_Cplusplus_3_C_plus_plus_Source_C_plus_plus_MyMyActor_h_9_PROLOG
+#define FID_Users_2406616_Documents_GitHub_project_Cplusplus_3_C_plus_plus_Source_C_plus_plus_MyMyActor_h_12_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_Users_2406616_Documents_GitHub_project_Cplusplus_2_C_plus_plus_Source_C_plus_plus_MyMyActor_h_12_INCLASS_NO_PURE_DECLS \
-	FID_Users_2406616_Documents_GitHub_project_Cplusplus_2_C_plus_plus_Source_C_plus_plus_MyMyActor_h_12_ENHANCED_CONSTRUCTORS \
+	FID_Users_2406616_Documents_GitHub_project_Cplusplus_3_C_plus_plus_Source_C_plus_plus_MyMyActor_h_12_INCLASS_NO_PURE_DECLS \
+	FID_Users_2406616_Documents_GitHub_project_Cplusplus_3_C_plus_plus_Source_C_plus_plus_MyMyActor_h_12_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -55,6 +55,6 @@ class AMyMyActor;
 // ********** End Class AMyMyActor *****************************************************************
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_Users_2406616_Documents_GitHub_project_Cplusplus_2_C_plus_plus_Source_C_plus_plus_MyMyActor_h
+#define CURRENT_FILE_ID FID_Users_2406616_Documents_GitHub_project_Cplusplus_3_C_plus_plus_Source_C_plus_plus_MyMyActor_h
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
