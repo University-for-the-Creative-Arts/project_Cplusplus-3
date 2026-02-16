@@ -7,9 +7,10 @@
 Create a simple C++ AActor that logs messages from different lifecycle functions.
 
 Implement some logic for the following:
--Implement one input action (movement or camera look) using Enhanced Input in C++.
--Expose at least one parameter to Blueprint for tuning.
--Demonstrate it working and explain how it could support another input device (e.g., gamepad or touch).
+
+- Implement one input action (movement or camera look) using Enhanced Input in C++.
+- Expose at least one parameter to Blueprint for tuning.
+- Demonstrate it working and explain how it could support another input device (e.g., gamepad or touch).
 
 Explain your reasoning and overall approach  
 Outline why this task is relevant or important in a professional or technical context  
